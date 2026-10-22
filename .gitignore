@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data files
+data/
+*.csv
+
+# Local configuration
+.env
+.DS_Store
